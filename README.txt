@@ -1,0 +1,1 @@
+PAYAL SUPER SPA single-file website. All CSS and JavaScript are embedded in index.html. Upload index.html to your hosting. Phone/WhatsApp: 7208627741.
